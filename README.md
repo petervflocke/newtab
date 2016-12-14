@@ -36,6 +36,7 @@ bookmark[1][0] = {
 All icons are stored in the ./img folder.
 Google shortcats are "hardcoded"
 
-To Install get all files to your local hard drive and create a new tab or home page link.
+###Install
+Clone / get all files to your local hard drive and create a new tab or home page link.
 
 This can be also installed on Internet if you have own place to host it.
