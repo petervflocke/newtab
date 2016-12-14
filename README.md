@@ -1,6 +1,6 @@
 ##Introduction:
 
-Home Page or a new tab page with most used quick links.
+Home Page or a new tab page for any Internet brwoser with your most used quick links. A quick access to often used pages.
 
 
 ###Screenshot
